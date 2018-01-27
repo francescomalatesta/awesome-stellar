@@ -10,31 +10,30 @@ If you see a link or project here that is no longer maintained or is not a good 
 
 ## Table of Contents
 
-* The Basics
+* [The Basics](#the-basics)
     * What is Stellar?
     * Papers
     * Roadmap
     * Branding / Logos
 
-* Tools
+* [Tools](#tools)
 
-* News
+* [News](#news)
 
-* Lumen
+* [Lumen](#lumen)
     * General
     * Exchanges
     * Wallets
 
-* Development
+* [Development](#development)
     * Getting Started
     * SDKs
 
-* Projects Using Stellar
+* [Projects Using Stellar](#projects-using-stellar)
 
-* Community
+* [Community](#community)
     * Social Networks
     * Forum
-
 
 ## The Basics
 
