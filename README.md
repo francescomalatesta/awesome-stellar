@@ -28,6 +28,7 @@ If you see a link or project here that is no longer maintained or is not a good 
 * [Development](#development)
     * Getting Started
     * SDKs
+    * Code
 
 * [Projects Using Stellar](#projects-using-stellar)
 
@@ -122,6 +123,12 @@ If you see a link or project here that is no longer maintained or is not a good 
 * [C# SDK](https://github.com/QuantozTechnology/csharp-stellar-base);
 * [Ruby SDK](https://github.com/stellar/ruby-stellar-sdk);
 * [Python SDK](https://github.com/StellarCN/py-stellar-base);
+
+### Code
+
+* [Stellar Code](https://github.com/stellar/stellar-core) - the backbone of the Stellar Network;
+* [Horizon](https://github.com/stellar/horizon) - the client facing HTTP API Server for Stellar;
+* [JS Stellar SDK](https://github.com/stellar/js-stellar-sdk) - the JavaScript SDK for Stellar;
 
 ## Projects Using Stellar
 
