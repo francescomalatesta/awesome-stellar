@@ -147,3 +147,4 @@ If you see a link or project here that is no longer maintained or is not a good 
 ### Forum
 
 * [Galactic Talk](https://galactictalk.org/);
+* [Stellar Thread on Bitcointalk](https://bitcointalk.org/index.php?topic=1428573.0);
