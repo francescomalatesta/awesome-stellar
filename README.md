@@ -123,6 +123,7 @@ If you see a link or project here that is no longer maintained or is not a good 
 * [C# SDK](https://github.com/QuantozTechnology/csharp-stellar-base);
 * [Ruby SDK](https://github.com/stellar/ruby-stellar-sdk);
 * [Python SDK](https://github.com/StellarCN/py-stellar-base);
+* [C++ SDK](https://github.com/bnogalm/StellarQtSDK) - C++ SDK by bnogalm;
 
 ### Code
 
