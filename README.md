@@ -135,6 +135,7 @@ If you see a link or project here that is no longer maintained or is not a good 
 ## Projects Using Stellar
 
 * [List of Projects on Galactic Talk](https://galactictalk.org/d/14-projects-built-on-stellar) - a really interesting list of projects built on the Stellar network;
+* [Stellar Price Wordpress Widget](https://stellarwidget.com)
 
 ## Community
 
