@@ -24,6 +24,7 @@ If you see a link or project here that is no longer maintained or is not a good 
     * General
     * Exchanges
     * Wallets
+    * Pools
 
 * [Development](#development)
     * Getting Started
