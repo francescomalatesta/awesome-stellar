@@ -60,6 +60,8 @@ If you see a link or project here that is no longer maintained or is not a good 
 ## Tools
 
 * [Stellar Dashboard](https://dashboard.stellar.org/) - the Stellar dashboard you can use to monitor the network;
+* [Stellar Chain Explorer](https://stellarchain.io/) - the Stellar chain explorer;
+* [Stellar Expert](https://stellar.expert/) - Block explorer and analytics platform for Stellar Network;
 
 ## News
 
@@ -68,6 +70,7 @@ If you see a link or project here that is no longer maintained or is not a good 
 * [Coindesk](https://www.coindesk.com/) - another important news site;
 * [CryptoAudio](https://cryptoaud.io/) - a news aggregator you can use to listen to cryptocurrency related articles;
 * [CryptoCalendar](https://cryptocalendar.pro/events/stellar) - the Stellar page on CryptoCalendar;
+* [XLM News](http://www.xlmnews.com/) -- a community Stellar news site;
 
 ## Lumen
 
@@ -103,13 +106,14 @@ If you see a link or project here that is no longer maintained or is not a good 
 
 * [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s);
 * [Stronghold](https://stronghold.co/send-receive-lumens.html);
-* [StellarTerm](https://stellarterm.com/);
-* [Stellar Desktop Client](http://wallet.stellar.chat/);
+* [StellarTerm](https://stellarterm.com/) ([source code](https://github.com/irisli/stellarterm));
+* [Stellar Desktop Client](http://wallet.stellar.chat/) ([source code](https://github.com/stellarchat/desktop-client/));
 * [Stellarport](https://stellarport.io/);
 * [Lobstr](https://lobstr.co/);
-* [Stargazer](https://getstargazer.com/);
+* [Stargazer](https://getstargazer.com/) ([source code](https://github.com/johansten/stargazer));
 * [Saza](https://saza.io/);
 * [Centaurus](https://play.google.com/store/apps/details?id=de.xcoins.centaurus&hl=it);
+* [firefly](https://wallet.fchain.io/) ([source code](https://github.com/StellarCN))
 
 ## Development
 
@@ -122,7 +126,7 @@ If you see a link or project here that is no longer maintained or is not a good 
 * [C# .NET 2.0](https://github.com/elucidsoft/dotnetcore-stellar-sdk);
 * [C# SDK](https://github.com/QuantozTechnology/csharp-stellar-base);
 * [Ruby SDK](https://github.com/stellar/ruby-stellar-sdk);
-* [Python SDK](https://github.com/StellarCN/py-stellar-base);
+* [Python SDK](https://github.com/StellarCN/py-stellar-base) - Unofficial, by [StellarCN](https://github.com/StellarCN);
 * [C++ SDK](https://github.com/bnogalm/StellarQtSDK) - C++ SDK by bnogalm;
 * [Swift SDK](https://github.com/kinfoundation/StellarKit);
 
@@ -150,3 +154,4 @@ If you see a link or project here that is no longer maintained or is not a good 
 
 * [Galactic Talk](https://galactictalk.org/);
 * [Stellar Thread on Bitcointalk](https://bitcointalk.org/index.php?topic=1428573.0);
+* [Stellar stackexchange Q&A](https://stellar.stackexchange.com) (private beta as of 2/Feb/2018, invitation acceptable)
