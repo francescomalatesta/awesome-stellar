@@ -16,6 +16,8 @@ If you see a link or project here that is no longer maintained or is not a good 
     * Roadmap
     * Branding / Logos
 
+* [Articles](#articles)
+
 * [Tools](#tools)
 
 * [News](#news)
@@ -57,6 +59,10 @@ If you see a link or project here that is no longer maintained or is not a good 
 ### Branding / Logos
 
 * [Official Press Kit](https://s3.amazonaws.com/stellar.org/public/Stellar-presskit-150216.zip) - the official press kit with some branding materials;
+
+## Articles
+
+* [A Comprehensive Introduction on How Stellar (XLM) Works for Non-Techies](https://medium.com/@dominiczhai/a-comprehensive-introduction-on-how-stellar-xlm-works-for-non-techies-7060595af749) -a nice article on Medium about how Stellar works for non tech people;
 
 ## Tools
 
