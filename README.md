@@ -24,6 +24,7 @@ If you see a link or project here that is no longer maintained or is not a good 
     * General
     * Exchanges
     * Wallets
+    * Pools
 
 * [Development](#development)
     * Getting Started
@@ -114,6 +115,10 @@ If you see a link or project here that is no longer maintained or is not a good 
 * [Saza](https://saza.io/);
 * [Centaurus](https://play.google.com/store/apps/details?id=de.xcoins.centaurus&hl=it);
 * [firefly](https://wallet.fchain.io/) ([source code](https://github.com/StellarCN))
+
+### Pools
+
+* [Lumenaut](https://lumenaut.net);
 
 ## Development
 
