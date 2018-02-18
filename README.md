@@ -64,6 +64,8 @@ If you see a link or project here that is no longer maintained or is not a good 
 
 * [A Comprehensive Introduction on How Stellar (XLM) Works for Non-Techies](https://medium.com/@dominiczhai/a-comprehensive-introduction-on-how-stellar-xlm-works-for-non-techies-7060595af749) -a nice article on Medium about how Stellar works for non tech people;
 
+* [Introduction to Stellar for Go Developers](http://azer.bike/journal/introduction-to-stellar-for-go-developers/) - Creating Accounts, Sending and Receiving Payments in Stellar Network with Go
+
 ## Tools
 
 * [Stellar Dashboard](https://dashboard.stellar.org/) - the Stellar dashboard you can use to monitor the network;
