@@ -168,3 +168,9 @@ If you see a link or project here that is no longer maintained or is not a good 
 * [Galactic Talk](https://galactictalk.org/);
 * [Stellar Thread on Bitcointalk](https://bitcointalk.org/index.php?topic=1428573.0);
 * [Stellar stackexchange Q&A](https://stellar.stackexchange.com) (private beta as of 2/Feb/2018, invitation acceptable)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Francesco Malatesta](https://www.facebook.com/malatesta.francesco) has waived all copyright and related or neighboring rights to this work.
